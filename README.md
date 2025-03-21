@@ -2,7 +2,6 @@
 </br>
 👀 I’m interested in automation, low-level hardware, webscraping, natural language processing (nlp) and much more.
 </br>
-</br>
 📫 How to reach me brendencecs@gmail.com
 </br>
 <div align = "right>
