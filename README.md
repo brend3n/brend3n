@@ -4,7 +4,7 @@
 </br>
 📫 How to reach me brendencecs@gmail.com
 </br>
-<div align = "right>
+<div align = "left">
 
 <div>
   
