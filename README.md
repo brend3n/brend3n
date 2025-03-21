@@ -6,11 +6,11 @@
 </br>
 <div align = "right>
 
-  <div>
+<div>
   
-  ![](https://komarev.com/ghpvc/?username=brend3n&color=FF0000&label=Those+Who+Have+Visited:&style=flat)
+![](https://komarev.com/ghpvc/?username=brend3n&color=FF0000&label=Those+Who+Have+Visited:&style=flat)
   
-  </div>
+</div>
 
 </div>
 <div align = "center">
